@@ -24,5 +24,4 @@ graph TD
 
     U --> UC5
     UC6 -.->|"<<extend>>"| UC5
-    UC6 --> Sd>>| UC5
     UC6 --> S
